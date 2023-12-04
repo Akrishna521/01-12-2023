@@ -1,0 +1,2 @@
+C:\DOT NET\Day 20\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAssignment.csproj.AssemblyReference.cache
+C:\DOT NET\Day 20\ConAppAssignment\ConAppAssignment\obj\Debug\ConAppAssignment.csproj.CoreCompileInputs.cache
